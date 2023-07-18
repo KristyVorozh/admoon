@@ -21,6 +21,7 @@ const BoxList = () => {
           style={{
             width: "20vw",
             height: "20vw",
+            border: "1px solid #e8e8e8",
             background: `#${item}`,
             borderRadius: 8,
             ...style,
